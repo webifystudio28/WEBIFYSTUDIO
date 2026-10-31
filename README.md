@@ -28,22 +28,7 @@ Welcome to **WEBIFY STUDIO** — a personal digital studio focused on website de
 - CSS3
 - JavaScript
 
-## 📂 Project Structure
 
-```text
-WEBIFYSTUDIO/
-├── index.html
-├── about.html
-├── skills.html
-├── projects.html
-├── certificates.html
-├── contact.html
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
-└── README.md
-```
 
 ## 🔗 Connect With Webify Studio
 
